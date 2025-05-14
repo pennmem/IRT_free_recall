@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Inter-Response Times in Free Recall
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Nathaniel R
+    family-names: Greene
+    email: nrgreene@sas.upenn.edu
+    affiliation: University of Pennsylvania
+  - given-names: Shai T
+    family-names: Goldman
+    email: shaigoldman18@gmail.com
+    affiliation: University of Pennsylvania
+  - given-names: Michael J
+    family-names: Kahana
+    email: kahana@psych.upenn.edu
+    affiliation: University of Pennsylvania
+identifiers:
+  - type: url
+    value: 'https://github.com/pennmem/IRT_free_recall'
+repository-code: 'https://github.com/pennmem/IRT_free_recall'
